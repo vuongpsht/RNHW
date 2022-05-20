@@ -9,7 +9,7 @@ yarn setUp
 
 1. Country
 
-usage
+    usage
     ```shell
     yarn dlcountryIOS + code
     ```
@@ -20,7 +20,7 @@ usage
 
 2. Continent
 
-usage
+    usage
     ```shell
     yarn dlcontinentIOS + code
     ```
