@@ -1,11 +1,11 @@
-###Quick installation
+### Quick installation
 
 run below command to set up yarn & android with jetifier & ios with pod & lint & run
 ```shell
 yarn setup
 ```
 
-###Test deeplink
+### Test deeplink
 
 1. Country
 
