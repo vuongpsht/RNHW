@@ -1,0 +1,282 @@
+Script started on Fri May 20 08:03:11 2022
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;32m➜  [36mRNHW[00m [K[?1h=[?2004h[1m[31mb[0m[39m[1m[31mb[0m[39m[90mrew install --build-from-source python@3.10[39m[43D[1m[31mb[1m[31ma[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [42D[1m[31mb[1m[31ma[1m[31ms[0m[39m[0m[32mb[0m[32ma[0m[32ms[32mh[39m [4ms[24m[4ms[4mc[24m[4mc[4mr[24m[4mr[4mi[24m[4mi[4mp[24m[4mp[4mt[24m[24ms[24mc[24mr[24mi[24mp[24mt [4mV[24m[4mV[4mN[24m[?1l>[?2004l
+]2;bash script VN]1;bash/usr/bin/script: /usr/bin/script: cannot execute binary file
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;31m➜  [36mRNHW[00m [K[?1h=[?2004h[32mbash[39m script [4mVN[24m.script[24m [4mV[4mN[24m[9D/script[24m [4mV[4mN[24m[9D[?1l>[?2004l
+]2;bash ./script VN]1;bashbash: ./script: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;31m➜  [36mRNHW[00m [K[?1h=[?2004h[32mbash[39m ./script [4mVN[24m.[24m [4mV[4mN[24ms[24m [4mV[4mN[24m[10D[4m.[4m/[4ms[4mc[4mr[4mi[4mp[4mt[4m.[4ms[4mh[24m[24m [4mV[4mN[24m[?1l>[?2004l
+]2;bash ./script.sh VN]1;bashxcrun simctl openurl booted rnhw://country/VN
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;32m➜  [36mRNHW[00m [K[?1h=[?2004h[32mbash[39m [4m./script.sh[24m [4mVN[24m[?1l>[?2004l
+]2;bash ./script.sh VN]1;bash[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;32m➜  [36mRNHW[00m [K[?1h=[?2004h[1m[31my[0m[39m[1m[31my[0m[39m[90marn dlcountry VN[39m[16D[1m[31my[1m[31ma[0m[39m[1m[31my[1m[31ma[1m[31mr[0m[39m[0m[32my[0m[32ma[0m[32mr[32mn[39m[39m [39md[39mi[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D [90mlcountry VN[39m[11D[39ml[39mc[39mo[39mu[39mn[39mt[39mr[39my[39m [39m[4mV[39m[4mN[24m[?1l>[?2004l
+]2;yarn dlcountry VN]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[31merror[39m Command "dlcountry" not found.
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;31m➜  [36mRNHW[00m [K[?1h=[?2004h[1m[31my[0m[39m[1m[31my[0m[39m[90marn dlcountry VN[39m[16D[1m[31my[1m[31ma[0m[39m[1m[31my[1m[31ma[1m[31mr[0m[39m[0m[32my[0m[32ma[0m[32mr[32mn[39m[39m [32md[39m[39m [39m [39m  [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[1m[31md[1m[31ml[0m[39m[1m[31md[1m[31ml[1m[31mc[0m[39m[1m[31mc[1m[31mo[0m[39m[1m[31mo[1m[31mu[0m[39m[1m[31mu[1m[31mn[0m[39m[1m[31mn[1m[31mt[0m[39m[1m[31mt[1m[31mr[0m[39m[1m[31mr[1m[31my[0m[39m[1m[31my[1m[31mI[0m[39m[1m[31mI[1m[31mO[0m[39m[1m[31mO[1m[31mS[0m[39m[12D[0m[39my[0m[39ma[0m[39mr[0m[39mn[0m[39m [0m[39m[7md[0m[39m[7ml[0m[39m[7mc[0m[39m[7mo[0m[39m[7mu[0m[39m[7mn[0m[39m[7mt[7mryIOS[27m[17D[32my[32ma[32mr[32mn[39m [27md[27ml[27mc[27mo[27mu[27mn[27mt[27mr[27my[27mI[27mO[27mS[90mdlcountry VN[39m[12D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[4mV[24m[4mV[4mN[24m[?1l>[?2004l
+]2;yarn dlcountryIOS VN]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ bash ./script/sh VN[22m
+bash: ./script/sh: No such file or directory
+[2K[1G[31merror[39m Command failed with exit code 127.
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;31m➜  [36mRNHW[00m [K[?1h=[?2004h[32myarn[39m dlcountryIOS [4mVN[24m[?1l>[?2004l
+]2;yarn dlcountryIOS VN]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ bash ./script.sh VN[22m
+bash: ./script.sh: No such file or directory
+[2K[1G[31merror[39m Command failed with exit code 127.
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground[39md[39mi[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D [90mlcountry VN[39m[11D[39ml[39mc[39mo[39mu[39mn[39mt[39mr[39my[39m [39m[4mV[39m[4mN[24m[?1l>[?2004l
+]2;yarn dlcountry VN]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[31merror[39m Command "dlcountry" not found.
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
+[1m[7m%[27m[1m[0m                                                                 [32myarn[39m dlcountryIOS [4mVN[24m[?1l>[?2004l
+]2;yarn dlcountryIOS VN]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ bash ./script/countryIOS.sh VN[22m
+[2K[1G✨  Done in 0.14s.
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;32m➜  [36mRNHW[00m [K[?1h=[?2004h[1m[31my[0m[39m[1m[31my[0m[39m[90marn dlcountryIOS VN[39m[19D[1m[31my[1m[31ma[0m[39m[1m[31my[1m[31ma[1m[31mr[0m[39m[0m[32my[0m[32ma[0m[32mr[32mn[39m[39m [32md[39m[39m [39m [39m  [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[1m[31md[1m[31ml[0m[39m[1m[31md[1m[31ml[1m[31mc[0m[39m[1m[31mc[1m[31mo[0m[39m[1m[31mo[1m[31mn[0m[39m[1m[31mn[1m[31mt[0m[39m[1m[31mt[1m[31mi[0m[39m[1m[31mi[1m[31mn[0m[39m[1m[31mn[1m[31me[0m[39m[1m[31me[1m[31mn[0m[39m[1m[31mn[1m[31mt[0m[39m[1m[31mt[1m[31mI[0m[39m[1m[31mI[1m[31mO[0m[39m[1m[31mO[1m[31mS[0m[39m[14D[0m[39my[0m[39ma[0m[39mr[0m[39mn[0m[39m [0m[39m[7md[0m[39m[7ml[0m[39m[7mc[0m[39m[7mo[0m[39m[7mn[0m[39m[7mt[0m[39m[7mi[0m[39m[7mn[0m[39m[7me[7mntIOS[27m[19D[32my[32ma[32mr[32mn[39m [27md[27ml[27mc[27mo[27mn[27mt[27mi[27mn[27me[27mn[27mt[27mI[27mO[27mS[90mdlcountryIOS VN[39m[15D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14DEU[?1l>[?2004l
+]2;yarn dlcontinentIOS EU]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ bash ./script/continent.sh EU[22m
+[2K[1G✨  Done in 0.14s.
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;32m➜  [36mRNHW[00m [K[?1h=[?2004h[32mg[39m[32mg[39m[90mit status[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4mi[24m[39m [39m [39m [39m [39m [90mnit[39m[4mi[39m[4mn[24m[24mi[24mn[39mi[39mt[?1l>[?2004l
+]2;git init]1;git[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /Users/vuongphusanhhoangthien/Playground/RNHW/.git/
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;32m➜  [36mRNHW[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[32mg[39m[90mit init[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ms[24m[39m [39m [39m [90mtatus[39m[24ms[39mt[39ma[39mt[39mu[39ms[?1l>[?2004l
+]2;git status]1;gitOn[32mg[39m[32mg[39m[90mit status[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4mi[24m[39m [39m [39m [39m [39m [90mnit[39m[4mi[39m[4mn[24m[24mi[24mn[39mi[39mt[?1l>[?2004l
+]2;git init]1;git[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /Users/vuongphusanhhoangthien/Playground/RNHW/.git/
+[1m[7m%[27m[1[32mg[39m[32mg[39m[90mit status[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ma[24m[39m [39m [39m [39m [39m [90mdd .[39m[24ma[39md[39md[39m [39mReAD   EADME.md[?1l>[?2004l
+]2;git add README.md]1;gitfatal: pathspec 'README.md' did not match any files
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;31m➜  [36mRNHW[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[32mg[39m[90mit add README.md[39m[16D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39mc[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[90mheckout yarn.lock[39m[17D[39mo[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[90mmmit -am "blabla"[39m[17D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[90mheckout yarn.lock[39m[17D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[90madd README.md[39m[13D[39m[4ma[24m[24ma[39md[39md[39m [39m,[39m [39m [39m [39m [39m [39m [39m [39m [8D [90mREADME.md[39m[9D[39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[90m README.md[39m[10D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[90md README.md[39m[11D[4ma[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[90mdd README.md[39m[12D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[90madd README.md[39m[13D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[90m add README.md[39m[14D[1m[31mg[1m[31mi[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[90mt add README.md[39m[15D[0m[32mg[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[32mg[39m[90mit add README.md[39m[16D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m remote [4ma[24m[24madd origin https://github.com/vuongpsht/RNHW.g [Kiit[A[21C[39m[7mg[39m[7mi[39m[7mt[7m [7mr[7me[7mm[7mo[7mt[7me[7m [7ma[7md[7md[7m [7mo[7mr[7mi[7mg[7mi[7mn[7m [7mh[7mt[7mt[7mp[7ms[7m:[7m/[7m/[7mg[7mi[7mt[7mh[7mu[7mb[7m.[7mc[7mo[7mm[7m/[7mv[7mu[7mo[7mn[7mg[7mp[7ms[7mh[7mt[7m/[7mR[7mN[7mH[7mW[7m.[7mg[7mi[7mt[27m[A[21C[27m[32mg[27m[32mi[27m[32mt[39m[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mv[27mu[27mo[27mn[27mg[27mp[27ms[27mh[27mt[27m/[27mR[27mN[27mH[27mW[27m.[27mgi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/vuongpsht/RNHW.git]1;git[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;32m➜  [36mRNHW[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[32mg[39m[90mit remote add origin https://github.com/vuongpsht/RNHW.g[90mi[90mt[39m[K[A[22C[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ms[24m[K[1B[K[A[28C[90mtatus[39m[24ms[39mt[39ma[39mg[39mi[39mt[4C[39mt[90mt[90mu[90ms[39m[8D[32mg[32mi[32mt[39m[5C[39mu[39m [39m [90ms[39m[39ms[?1l>[?2004l[1B]2;git status]1;gitOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.buckconfig[m
+	[31m.eslintrc.js[m
+	[31m.gitignore[m
+	[31m.prettierrc.js[m
+	[31m.watchmanconfig[m
+	[31mApp.tsx[m
+	[31mGe [90mREADME.md[39m[9D[39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[90m README.md[39m[10D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[90md README.md[39m[11D[4ma[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[90mdd README.md[39m[12D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[90madd README.md[39m[13D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[90m add README.md[39m[14D[1m[31mg[1m[31mi[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[90mt add README.md[39m[15D[0m[32mg[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[32mg[39m[90mit add README.md[39m[16D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m remote [4ma[24m[24madd origin https://github.com/vuongpsht/RNHW.g [Kiit[A[21C[39m[7mg[32mg[39m[32mg[39m[90mit remote add origin https://github.com/vuongpsht/RNHW.g[90mi[90mt[39m[K[A[22C[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ms[24m[K[1B[K[A[28C[90mtatus[39m[24ms[39mt[39ma[39mg[39mi[39mt[4C[39mt[90mt[90mu[90ms[39m[8D[32mg[32mi[32mt[39m[5C[39mu[39m [39m [90ms[39m[39ms[?1l>[?2004l[1B]2;git status]1;gitOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.buckconfig[m
+	[31m.eslintrc.js[m
+	[31m.gitignore[m
+	[31m.prettierrc.js[m
+	[31m.watchmanconfig[m
+	[31mApp.tsx[m
+	[31mGemfile[m
+	[31mVN[m
+	[31m__tests__/[m
+	[31m_bundle/[m
+	[31m_ruby-version[m
+	[31mandroid/[m
+	[31mapp.json[m
+	[31mbabel.config.js[m
+	[31mindex.js[m
+	[31mios/[m
+	[31mme[39m [39m[4ms[24m[K[1B[K[A[28C[90mtatus[39m[24ms[39mt[39ma[39mg[39mi[39mt[4C[39mt[90mt[90mu[90ms[39m[8D[32mg[32mi[32mt[39m[5C[39mu[39m [39m [90ms[39m[39ms[?1l>[?2004l[1B]2;git status]1;gitOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.buckconfig[m
+	[31m.eslintrc.js[m
+	[31m.gitignore[m
+	[31m.prettierrc.js[m
+	[31m.watchmanconfig[m
+	[31mApp.tsx[m
+	[31mGemfile[m
+	[31mVN[m
+	[31m__tests__/[m
+	[31m_bundle/[m
+	[31m_ruby-version[m
+	[31mandroid/[m
+	[31mapp.json[m
+	[31mbabel.config.js[m
+	[31mindex.js[m
+	[31mios/[m
+	[31mmetro.config.js[m
+	[31mpackage.json[m
+	[31mscript/[m
+	[31msrc/[m
+	[31mtsconfig.json[m
+	[31myarn.lock[m
+
+nothing added to [32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mp[24m[24mpush -u origin [4mm[24m[24mmain[23D[39m[7mg[39m[7mi[39m[7mt[7m [7mp[7mu[7ms[7mh[7m [7m-[7mu[7m [7mo[7mr[7mi[7mg[7mi[7mn[7m [7mm[7ma[7mi[7mn[27m
+[K[A[21C[27m[32mg[27m[32mi[27m[32mt[39m[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27[1m[31mg[1m[31mo[0m[39m[0m[39m [1m[31mg[1m[31mo[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[1m[31mi[0m[39m[0m[39m [1m[31mg[1m[31mo[0m[39m[0m[39m [0m[32mg[39m[0m[39m [32mg[39m[90mit add .[39m[8D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ms[24m[39m [39m [39m [39m [90mtatus[39m[24ms[39mt[39ma[39mt[39mu[39ms[?1l>[?2004l
+]2;git status]1;gitOn branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   .buckconfig[m
+	[32mnew file:   .eslintrc.js[m
+	[32mnew file:   .gitignore[m
+	[32mnew file:   .prettierrc.js[m
+	[32mnew file:   .watchmanconfig[m
+	[32mnew file:   App.tsx[m
+	[32mnew file:   Gemfile[m
+	[32mnew file:   VN[m
+	[32mnew file:   __tests__/App-test.tsx[m
+	[32mnew file:   _bundle/config[m
+	[32mnew file:   _ruby-version[m
+	[32mnew file:   android/app/_BUCK[m
+	[32mnew file:   android/app/build.gradle[m
+	[32mnew file:   android/app/build_defs.bzl[m
+	[32mnew file:   android/app/debug.keystore[m
+	[32mnew file:   android/app/proguard-rules.pro[m
+	[32mnew file:   android/app/src/debug/AndroidManifest.xml[m
+	[32mnew file:   android/app/src/debug/java/com/rnhw/ReactNativeFlipper.java[m
+	[32mnew file:   android/app/src/main/AndroidManifest.xml[m
+	[32mnew file:   android/app/src/main/java/com/rnhw/MainActivity.java[m
+	[32mnew file:   android/app/src/main/java/com/rnhw/MainApplication.java[m
+	[32mnew file:   android/app/src/main/java/com/rnhw/newarchitecture/MainApplicationReactNativeHost.java[m
+	[32mnew file:   android/app/src/main/java/com/rnhw/newarchitecture/components/MainComponentsRegistry.java[m
+	[32mnew file:   android/app/src/main/java/com/rnhw/newarchitecture/modules/MainApplicationTurboModuleManagerDelegate.java[m
+	[32mnew file:   android/app/src/main/jni/Android.mk[m
+	[32m39m[0m[39m [1m[31mg[1m[31mo[0m[39m[0m[39m [0m[32mg[39m[0m[39m [32mg[39m[90mit add .[39m[8D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ms[24m[39m [39m [39m [39m [90mtatus[39m[24ms[39mt[39ma[39mt[39mu[39ms[?1l>[?2004l
+]2;git status]1;gitOn branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   .buckconfig[m
+	[32mnew file:   .eslintrc.js[m
+	[32mnew file:   .gitignore[m
+	[32mnew file:   .prettierrc.js[m
+	[32mnew file:   .watchmanconfig[m
+	[32mnew file:   App.tsx[m
+	[32mnew file:   Gemfile[m
+	[32mnew file:   VN[m
+	[32mnew file:   __tests__/App-test.tsx[m
+	[32mnew file:   _bundle/config[m
+	[32mnew file:   _ruby-version[m
+	[32mnew file:   android/app/_BUCK[m
+	[32mnew file:   android/mt[39m[39m [39m[4ms[24m[39m [39m [39m [[1m[31mg[1m[31mo[0m[39m[0m[39m [1m[31mg[1m[31mo[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[1m[31mi[0m[39m[0m[39m [1m[31mg[1m[31mo[0m[39m[0m[39m [0m[32mg[39m[0m[39m [32mg[39m[90mit add .[39m[8D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ms[24m[39m [39m [39m [39m [90mtatus[39m[24ms[39mt[39ma[39mt[39mu[39ms[?1l>[?2004l
+]2;git status]1;gitOn branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   .buckconfig[m
+	[32mnew file:   .eslintrc.js[m
+	[32mnew file:   .gitignore[m
+	[32mnew file:   .prettierrc.js[m
+	[32mnew file:   .watchmanconfig[m
+	[32mnew file:   App.tsx[m
+	[32mnew file:   Gemw file:   android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.h[m
+	[32mnew file:   android/app/src/main/jni/MainComponentsRegistry.cpp[m
+	[32mnew file:   android/app/src/main/jni/MainComponentsRegistry.h[m
+	[32mnew file:   android/app/src/main/jni/OnLoad.cpp[m
+	[32mnew file:   android/app/src/main/res/drawable/rn_edit_text_material.xml[m
+	[32mnew file:   android/app/src/main/res/mipmap-hdpi/ic_launcher.png[m
+	[32mnew file:   android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png[m
+	[32mnew file:   android/app/src/main/res/mipmap-mdpi/ic_launcher.png[m
+	[32mnew file:   android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png[m
+	[32mnew file:   android/app/src/main/res/mipmap-xhdpi/ic_launcher.png[m
+	[32mnew file:   android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png[m
+	[32mnew file:   android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png[m
+	[32mnew file:   android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png[m
+	[32mnew file:   android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png[m
+	[32mnew file:   android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png[m
+	[32mnew file:   android/app/src/main/res/values/strings.xml[m
+	[32mnew file:   android/app/src/main/res/values/styles.xml[m
+	[32mnew file:   android/build.gradle[m
+	[32mnew file:   android/gradle.properties[m
+	[32mnew file:   android/gradle/wrapper/gradle-wrapper.jar[m
+	[32mnew file:   android/gradle/wrapper/gradle-wrapper.properties[m
+	[32mnew file:   android/gradlew[m
+	[32mnew file:   android/gradlew.bat[m
+	[32mnew file:   android/settings.gradle[m
+	[32mnew file:   app.json[m
+	[32mnew file:   babel.config.js[m
+	[32mnew file:   index.js[m
+	[32mnew file:   ios/Podfile[m
+	[32mnew file:   ios/Podfile.lock[m
+	[32mnew file:   ios/RNHW.xcodeproj/project.pbxproj[m
+	[32mnew file:   ios/RNHW.xcodeproj/xcshareddata/xcschemes/RNHW.xcscheme[m
+	[32mnew file:   ios/RNHW.xcworkspace/contents.xcworkspacedata[m
+	[32mnew file:   ios/RNHW.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist[m
+	[32mnew file:   ios/RNHW/AppDelegate.h[m
+	[32mnew file:   ios/RNHW/AppDelegate.mm[m
+	[32mnew file:   ios/RNHW/Images.xcassets/AppIcon.appiconset/Contents.json[m
+	[32mnew file:   ios/RNHW/Images.xcassets/Contents.json[m
+	[32mnew file:   ios/RNHW/Infocedata[m
+	[32mnew file:   ios/RNHW.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist[m
+	[32mnew file:   ios/RNHW/AppDelegate.h[m
+	[32mnew file:   ios/RNHW/AppDelegate.mm[m
+	[32mnew file:   ios/RNHW/Images.xcassets/AppIcon.appiconset/Contents.json[m
+	[32mnew file:   ios/RNHW/Images.xcassets/Contents.json[m
+	[32mnew file:   ios/RNHW/Info.plist[m
+	[32mnew file:   ios/RNHW/LaunchScreen.storyboard[m
+	[32mnew file:   ios/RNHW/main.m[m
+	[32mnew file:   ios/RNHWTests/Info.plist[m
+	[32mnew file:   ios/RNHWTests/RNHWTests.m[m
+	[32mnew file:   metro.config.js[m
+	[32mnew file:   package.json[m
+	[32mnew file:   script/continent.sh[m
+	[32mnew file:   script/countryIOS.sh[m
+	[32mnew file:   src/Constant/package.json[m
+	[32mnew file:   src/Constant/query.ts[m
+	[32mnew file:   src/Hooks/Services.tsx[m
+	[32mnew file:   src/Hooks/package..mm[m
+	[32mnew file:   ios/RNHW/Images.xcassets/AppIcon.appiconset/Contents.json[m
+	[32mnew file:   ios/RNHW/Images.xcassets/Contents.json[m
+	[32mnew file:   ios/RNHW/Info.plist[m
+	[32mnew file:   ios/RNHW/LaunchScreen.storyboard[m
+	[32mnew file:   ios/RNHW/main.m[m
+	[32mnew file:   ios/RNHWTests/Info.plist[m
+	[32mnew file:   ios/RNHWTests/RNHWTests.m[m
+	[32mnew file:   metro.config.js[m
+	[32mnew file:   package.json[m
+	[32mnew file:   script/continent.sh[m
+	[32mnew file:   script/countryIOS.sh[m
+	[32mnew file:   src/Constant/package.json[m
+	[32mnew file:   src/Constant/query.ts[m
+	[32mnew file:   src/Hooks/Services.tsx[m
+	[32mnew file:   src/Hooks/package.json[m
+	[32mnew file:   src/Navigation/index.tsx[m
+	[32mnew file:   src/Provider/GraphqlProvider.tsx[m
+	[32mnew file:   src/Screens/Continent/index.tsx[m
+	[32mnew file:   src/Screens/Country/index.tsx[m
+	[32mnew file:   src/Screens/Home/components/CountriesList.tsx[m
+	[32mnew file:   src/Screens/Home/components/HomeHeader.tsx[m
+	[32mnew file:   src/Screens/Home/index.tsx[m
+	[32mnew file:   src/Screens/package.json[m
+	[32mnew file:   src/type/Country.ts[m
+	[32mnew file:   src/type/package.json[m
+	[32mnew file:   tsconfig.json[m
+	[32mnew file:   yarn.lock[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   VN[m
+
+[1m[7m%[27m[1m[0m                                                                                ]2;vuongphusanhhoangthien@Vuongs-Mac-mini:~/Playground/RNHW]1;..ayground/RNHW[0m[27m[24m[J[01;32m➜  [36mRNHW[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[32mg[39m[90mit status[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39mc[39m [39m [39m [39m [39m [90mheckout yarn.lock[39m[17D[39mo[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[90mmmit -am "blabla"[39m[17D[39mm[39mm[39mi[39mt[39m [39m-[39ma[39mm[39m [33m"[33mb[33ml[33ma[33mb[33ml[33ma[33m"[39m
